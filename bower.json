@@ -1,0 +1,28 @@
+{
+  "name": "use_backbone",
+  "homepage": "https://github.com/tibic/use_backbone",
+  "authors": [
+    "liuhe"
+  ],
+  "description": "use backbone",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "backbone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "underscore": "https://github.com/jashkenas/underscore.git#^1.8.3",
+    "backbone": "https://github.com/jashkenas/backbone.git#^1.2.3",
+    "backbone-localstorage": "^0.3.2",
+    "requirejs": "https://github.com/jrburke/requirejs.git#^2.1.22"
+  }
+}
